@@ -1,4 +1,10 @@
-# mey (மெய் - truth)
+<p align="center">
+  <h1>mey</h1><br>
+  <strong>மெய் - truth</strong>
+</p>
+
+
+## About 
 Mey is capacity planner for applications. This has built-in ddos toolkit with ML capabilities. This will help people to identify  pressure point of any applications.
 
 ## Current works
