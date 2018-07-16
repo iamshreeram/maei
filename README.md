@@ -14,14 +14,6 @@
     <a href="https://github.com/joeblau/gitignore.io/blob/master/LICENSE.md"><img src="https://img.shields.io/github/license/joeblau/gitignore.io.svg?style=flat-square" alt="license"></a>
 </p-->
 
-
-
-<p align="center">
-  <h1>mey</h1><br>
-  <strong></strong>
-</p>
-
-
 ## About 
 Mey is capacity planner for applications. This has built-in ddos toolkit with ML capabilities. This will help people to identify  pressure point of any applications.
 
