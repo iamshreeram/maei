@@ -6,9 +6,6 @@
     <strong>மெய் - TRUTH | Find the reality of application using its meta data</strong>
 </p>
 <p align="center">
-    <!--img src="https://img.shields.io/badge/Platforms-Linux%20%7C%20macOS%20%7C%20Windows-blue.svg?style=flat-square"alt="Platforms">
-    <img src="https://img.shields.io/apm/l/vim-mode.svg?style=flat-square" alt="license"-->
-    
     <img src="https://img.shields.io/badge/Platforms-Linux%20%7C%20macOS%20%7C%20Windows-blue.svg?style=plastic"alt="Platforms">
     <img src="https://img.shields.io/apm/l/vim-mode.svg?style=plastic" alt="license">
 </p>
