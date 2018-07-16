@@ -1,6 +1,7 @@
 <p align="center">
-    <a href="https://www.gitignore.io">
+    <a href="#"><h1>
         mey<!--img src="https://cdn.rawgit.com/joeblau/gitignore.io/master/Public/img/gitignoreio.svg" /-->
+        </h1>
     </a>
     <br>
     <strong>Create useful .gitignore files for your project</strong>
