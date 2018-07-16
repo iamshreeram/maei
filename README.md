@@ -3,7 +3,7 @@
         <img src="https://cdn.rawgit.com/iamshreeram/mey/master/logo.png" />
     </a>
     <br>
-    <strong>மெய் - TRUTH | Find the reality of application meta data of any application</strong>
+    <strong>மெய் - TRUTH | Find the reality of application using its meta data</strong>
 </p>
 <!--p align="center">
     <a href="https://swift.org"><img src="https://img.shields.io/badge/Swift-4.1-orange.svg?style=flat-square"/></a>
