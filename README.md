@@ -1,6 +1,6 @@
 <p align="center">
     <a href="#">
-        <img src="https://cdn.rawgit.com/iamshreeram/mey/master/logo.png" />
+        <img src="http://bit.ly/meygithub" />
     </a>
     <br>
     <strong>மெய் - TRUTH | Find the reality of application using its meta data</strong>
